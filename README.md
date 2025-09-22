@@ -35,12 +35,6 @@ differences.
 
 3.  **Gravity Anomaly Calculation** -- ISF applied in discrete form:
 
-    \[ `\Delta `{=tex}g_p(`\phi`{=tex}\_p, `\lambda`{=tex}\_p) =
-    -`\frac{\gamma}{R}`{=tex}N_p -
-    `\frac{\Delta\phi \Delta\lambda}{16\pi R}`{=tex}`\gamma `{=tex}`\sum `{=tex}(N_q -
-    N_p)`\cos`{=tex}(`\phi`{=tex}\_q) `\sin`{=tex}\^3
-    `\left`{=tex}(`\frac{\psi}{2}`{=tex}`\right`{=tex}) \]
-
 4.  **Validation** -- Comparison with **XGM2019** anomalies.
 
 
